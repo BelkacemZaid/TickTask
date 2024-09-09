@@ -1,0 +1,15 @@
+{
+    "name": "zaidb/tick-task",
+    "autoload": {
+        "psr-4": {
+            "Zaidb\\TickTask\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "BelkacemZaid",
+            "email": "zaid.belkacem03@gmail.com"
+        }
+    ],
+    "require": {}
+}
